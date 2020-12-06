@@ -1,0 +1,2 @@
+创建新并切换到新的分支：git checkout -b 'name'
+切换到新的分支：git checkout 'name'
